@@ -1,7 +1,7 @@
 # Hi there 👋
 ## Welcome To My Github
 
-I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Stack Development.
+I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Stack Development. In this Github have a lot of my University Project so its effect the low score.
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
