@@ -41,7 +41,4 @@ I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Sta
   <a href="https://www.instagram.com/julius.sw/?hl=id">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" alt="Instagram" width="70"/>
   </a>
-  <a href="https://wa.me/6287854181300">
-    <img src="https://seeklogo.com/images/W/whatsapp-logo-33F6A82887-seeklogo.com.png" alt="WhatsApp" width="70"/>
-  </a>
 </div>
