@@ -1,8 +1,9 @@
-# Welcome To My Github
+# Hi there 👋
+## Welcome To My Github
 
 I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Stack Development.
 
-# Tech Stack:
+# 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 # Regular tools I use for programming:
@@ -32,6 +33,12 @@ I'm a 2022 Informatics student at Ciputra University, Surabaya. I learn Full Sta
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" alt="VScode" width="70"/>
   </a>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jukius30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jukius30&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jukius30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 # Contact Me!
 <div style="display: flex; justify-content: space-around;">
